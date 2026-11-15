@@ -55,5 +55,5 @@ python app.py
 ## Author
 
 **Navish**
-## B.com computer applications
-## Adithya college of arts and science 
+- B.com computer applications
+- Adithya college of arts and science 
