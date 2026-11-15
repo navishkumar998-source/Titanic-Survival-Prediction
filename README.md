@@ -54,6 +54,8 @@ python app.py
 
 ## Author
 
-**Navish**
-- B.com computer applications
-- Adithya college of arts and science 
+**Navish Kumar**
+
+- **Degree:** B.Com. Computer Applications
+- **College:** Adithya College of Arts and Science, Coimbatore, Tamil Nadu, India
+:::
