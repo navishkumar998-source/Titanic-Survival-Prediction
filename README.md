@@ -54,6 +54,6 @@ python app.py
 
 ## Author
 
-**Nancy**  
-B.Sc. Information Technology Student  
-Sri Ramakrishna College of Arts and Science for Women
+**Navish**
+B.com computer applications
+Adithya college of arts and science 
